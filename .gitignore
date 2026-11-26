@@ -1,0 +1,4 @@
+*.o
+sssp
+sssp-asan
+*.png
