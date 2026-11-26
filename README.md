@@ -8,6 +8,8 @@ Iman Gholami, MohammadTaghi Hajiaghayi（University of Maryland）
 任意非负实数的输入，期望运行时间 $O(m + n\log\log\log n)$，几乎必然终止，每次终止都
 返回精确距离与一棵最短路树；时间界与边长比值无关。
 
+介绍文章：[《几乎线性的单源最短路（中文版 + C 实现）》](https://meimoe.fun/sssp-almost-linear/)
+
 本仓库包含两件东西：
 
 1. `typst/` —— 论文全文的中文译稿（Typst 排版），成品见 [`typst/paper-zh.pdf`](typst/paper-zh.pdf)。
